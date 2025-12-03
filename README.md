@@ -45,6 +45,3 @@ https://www.figma.com/design/acRuf1334cucHDcBXdUsug/bloom-mood?node-id=2013-473&
 - Tuned bouquet layout with hand-drawn art layers
 - Glass UI aesthetic buttons using blur-like visuals
 - Friendly edit/delete flow in the calendar
-
-Bloom Mood blends emotional journaling with calm visual design.
-Using Jetpack Compose, dynamic graphics, and simple persistent storage, the app offers a gentle and aesthetic way to track your moods over time.
